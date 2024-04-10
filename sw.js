@@ -4,11 +4,7 @@ var cacheList=[
   '/',
   'index.html',
   'main.css',
-<<<<<<< HEAD
   'image/travel.png'
-=======
-  'image/women.png'
->>>>>>> 0219c3a17973d44401890c91bae5476c383971ee
 ]
 self.addEventListener('install',e =>{
   e.waitUntil(
